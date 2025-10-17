@@ -1,44 +1,22 @@
-# 🧰 Bash Scripts Collection
+# 🧰 Bash Scripts Repository
 
-A curated collection of useful **Bash scripts** created by **Aymen
-Zarour** for automating system administration, DevOps, and Linux tasks.
+A collection of **useful Bash scripts** created by **Aymen Zarour** to
+automate and simplify everyday tasks on Linux systems.
 
 ------------------------------------------------------------------------
 
 ## 📖 Overview
 
-This repository contains Bash scripts for: - 🐧 Linux system setup and
-cleanup\
-- 🐳 Docker management (install, uninstall, cleanup)\
-- ⚙️ DevOps utilities (Kubernetes, Git, etc.)\
+This repository contains various **Bash scripts** for: - 🐧 Linux system
+administration and cleanup\
+- 🐳 Docker installation, removal, and management\
+- ⚙️ DevOps automation (Kubernetes, Git, etc.)\
 - 💾 Backup, monitoring, and diagnostics\
-- 🧹 Automation of repetitive admin tasks
+- 🧹 General automation tasks
 
-Each script is well-commented, tested on **Arch Linux** and **Ubuntu**,
-and aims to simplify common system operations.
-
-------------------------------------------------------------------------
-
-## 📂 Repository Structure
-
-    bash-scripts/
-    │
-    ├── system/
-    │   ├── cleanup.sh
-    │   ├── update-system.sh
-    │   └── monitor-top3.sh
-    │
-    ├── docker/
-    │   ├── install-docker.sh
-    │   ├── uninstall-docker.sh
-    │   └── prune-docker.sh
-    │
-    ├── devops/
-    │   ├── k3s-setup.sh
-    │   ├── k8s-deploy.sh
-    │   └── git-auto-push.sh
-    │
-    └── README.md
+Each script is: - Well commented and easy to understand\
+- Tested mainly on **Arch Linux** and **Ubuntu**\
+- Designed to be portable and safe to run
 
 ------------------------------------------------------------------------
 
@@ -54,29 +32,29 @@ cd bash-scripts
 Make any script executable:
 
 ``` bash
-chmod +x path/to/script.sh
+chmod +x script_name.sh
 ```
 
 Run it:
 
 ``` bash
-./path/to/script.sh
+./script_name.sh
 ```
 
 ------------------------------------------------------------------------
 
 ## 🧩 Compatibility
 
-All scripts are designed for: - Arch Linux\
-- Ubuntu / Debian\
-- Fedora (some scripts)
+-   Arch Linux ✅\
+-   Ubuntu / Debian ✅\
+-   Fedora (some scripts) ⚙️
 
 ------------------------------------------------------------------------
 
 ## 📜 License
 
-This project is licensed under the **MIT License** -- feel free to
-modify and reuse the scripts with proper credit.
+This project is released under the **MIT License** --- you are free to
+use, modify, and share the scripts with attribution.
 
 ------------------------------------------------------------------------
 
@@ -85,9 +63,10 @@ modify and reuse the scripts with proper credit.
 **Aymen Zarour**\
 Master's student in Computer Science (Networks & DevOps) -- Sorbonne
 University\
-🔗 [LinkedIn](https://www.linkedin.com/in/aymenzarour) \|
-[GitHub](https://github.com/aymenzarour)
+🔗 [LinkedIn](https://www.linkedin.com/in/aymenzarour)\
+🔗 [GitHub](https://github.com/aymenzarour)
 
 ------------------------------------------------------------------------
 
-> 💡 *Contributions and suggestions are welcome!*
+> 💡 *New scripts will be added progressively --- stay tuned for
+> updates!*
