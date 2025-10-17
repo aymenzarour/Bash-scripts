@@ -15,7 +15,7 @@ administration and cleanup\
 - 🧹 General automation tasks
 
 Each script is: - Well commented and easy to understand\
-- Tested mainly on **Arch Linux** and **Ubuntu**\
+- Tested mainly on **Arch Linux** 
 - Designed to be portable and safe to run
 
 ------------------------------------------------------------------------
